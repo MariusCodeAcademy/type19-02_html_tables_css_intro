@@ -1,6 +1,8 @@
 body {
   background-color: #ededed;
   margin: 0;
+  /* 2 nustatyti srifta */
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* HERO =========================================== */
@@ -8,9 +10,13 @@ body {
   background-color: tomato;
   color: white;
   text-align: center;
+  padding-top: 20px;
+  padding-bottom: 40px;
 }
 h1 {
   text-transform: uppercase;
   font-weight: normal;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
 }
 /* /HERO =========================================== */
